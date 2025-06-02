@@ -7,7 +7,7 @@ import { API_PATHS } from '../../utils/apiPaths';
 import { useEffect } from 'react';
 import ExpenseTransactions from '../../components/Dashboard/ExpenseTransactions';
 import Last30DaysExpenses from '../../components/Dashboard/Last30DaysExpenses';
-import InfoCard from '../../components/Cards/InfoCard';
+import InfoCard from '../../components/cards/InfoCard';
 import { addThousandsSeparators } from '../../utils/helper';
 import FinanceOverview from '../../components/Dashboard/FinanceOverview';
 import RecentTransactions from '../../components/Dashboard/RecentTransactions';
