@@ -11,7 +11,7 @@ import SignUp from './pages/Auth/SignUp';
 import Home from './pages/dashboard/Home';
 import Income from './pages/dashboard/Income';
 import Expense from './pages/dashboard/Expense';
-import UserProvider from './context/UserContext';
+import UserProvider from './context/userContext';
 import { Toaster } from 'react-hot-toast';
 
 
